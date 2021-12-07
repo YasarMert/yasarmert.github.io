@@ -1,0 +1,32 @@
+diff --git a/index.html b/index.html
+--- index.html
++++ index.html
+@@ -7,15 +7,28 @@
+   </head>
+ 
+ 
+   <body>
++    <!--
+     <h1>Looks like you stumbled into my website! </h1>
+     
+     <p>Well there isnt anything to do so.... bye i guess?</p>
+     
+     <p>this is a test</p>
+     <br/>
+     <p>this is an another test!</p>
++    -->
++
++    <header>
++      <a href="https://www.google.com" target="_blank">Google's homepage</a>
++
++    </header>
++    <main>
++
++    </main>
++    <footer>
++
++    </footer>
+   </body>
+ 
+ 
+ </html>
